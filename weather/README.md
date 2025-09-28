@@ -6,4 +6,4 @@
 
 seattle data:[ https://raw.githubusercontent.com/brian-fischer/DATA-5100/refs/heads/main/weather/seattle_rain.csv ]
 
-portland data:[ https://raw.githubusercontent.com/anushkanaidu/Weather-Data-Project/refs/heads/main/portland_rainfall.csv ]
+portland data:[ https://raw.githubusercontent.com/anushkanaidu/Weather-Data-Project/refs/heads/main/weather/portland_rainfall.csv ]
