@@ -1,8 +1,8 @@
 # Weather project
 
-This project comparies precipitation levels in two U.S states: Seattle and Portland.
+**Purpose:** This project compares precipitation levels across multiple U.S. cities (Seattle, St. Louis, and Portland) between 2018 and 2022 to analyze rainfall patterns.
 
-## Data 
+## Data
 
 seattle data:[ https://raw.githubusercontent.com/brian-fischer/DATA-5100/refs/heads/main/weather/seattle_rain.csv ]
 
